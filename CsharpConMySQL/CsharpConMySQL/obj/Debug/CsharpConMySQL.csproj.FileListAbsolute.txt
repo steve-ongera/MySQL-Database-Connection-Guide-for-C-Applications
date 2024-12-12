@@ -1,0 +1,8 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\CsharpConMySQL.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\CsharpConMySQL.Properties.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\CsharpConMySQL.csproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\bin\Debug\CsharpConMySQL.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\bin\Debug\CsharpConMySQL.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\CsharpConMySQL.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\CsharpConMySQL\CsharpConMySQL\obj\Debug\CsharpConMySQL.pdb
